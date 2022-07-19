@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Annie%20Jung&fontAlignY=35&animation=fadeIn&desc=Software%20Developer&descAlignY=55&theme=radical&fontSize=50" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Annie%20Jung&fontAlignY=35&animation=fadeIn&desc=Software%20Developer&descAlignY=55&fontSize=50" width="100%" />
     <h3>Hi there! Welcome to my page 😀</h3>
  </div>
  <br/>
