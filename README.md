@@ -40,11 +40,18 @@
  
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annjung27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=annjung27&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
  <div>
     <h2>📬 Connect with me</h2>
     <a href="https://www.linkedin.com/in/annie-younju-jung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/annie-younju-jung/"/></a>
     <a href="mailto:younjujung27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:younjujung27@gmail.com"/></a>
  </div>  
+ 
  
 
 <div>
