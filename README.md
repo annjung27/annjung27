@@ -42,7 +42,7 @@
 
  <div>
     <h2>📬 Connect with me</h2>
-    <a href="https://www.linkedin.com/in/annie-younju-jung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/annie-younju-jung/"/></a>
+    <a href="https://www.linkedin.com/in/annie-younju-jung/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/annie-younju-jung/"/></a>
     <a href="mailto:younjujung27@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:younjujung27@gmail.com"/></a>
  </div>  
  
