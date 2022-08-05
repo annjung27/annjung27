@@ -11,7 +11,7 @@
     <ul>
       <li>🦄 I'm a full stack web developer who loves designing and developing user-friendly applications.</li>
       <li>🔭 I’m currently working on full stack MERN project.</li>
-      <li>🌱 I’m currently learning React,Typescript, GraphQL, UX/UI design principles and tools.</li>
+      <li>🌱 I’m currently learning and practicing algos and data structure, React,Typescript.</li>
     </ul>     
   </div>  
   <br/>
