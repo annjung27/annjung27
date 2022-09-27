@@ -14,8 +14,7 @@
       <li>🌱 I’m currently learning and practicing algos and data structure, React, Typescript.</li>
     </ul>     
   </div>  
-  <br/>
-
+ 
  <div>
   <h2>👩‍💻Technologies & Tools I Use</h2>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -40,9 +39,8 @@
  
 </br>
 
-[![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=annjung27&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</br>
+[![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=annjung27&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  <div>
     <h2>📬 Connect with me</h2>
